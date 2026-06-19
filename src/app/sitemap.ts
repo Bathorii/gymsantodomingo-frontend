@@ -57,48 +57,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: 'weekly' as const,
   }))
 
-  // Kerület (localidad) szintű oldalak
-  const implementedLocalidades = [
-    'chapinero', 'usaquen', 'suba', 'kennedy', 'teusaquillo',
-    'fontibon', 'engativa', 'ciudad-bolivar', 'barrios-unidos', 'rafael-uribe-uribe',
-    'puente-aranda', 'bosa', 'antonio-narino', 'la-candelaria', 'los-martires',
-    'san-cristobal', 'santa-fe', 'tunjuelito', 'sumapaz', 'usme']
+  // Kerület (sector) szintű oldalak – üres, amíg nincs Santo Domingo tartalom
+  const implementedLocalidades: string[] = []
+  const localidadPages: MetadataRoute.Sitemap = []
 
-  const localidadPages: MetadataRoute.Sitemap = implementedLocalidades.flatMap(slug =>
-    categories.map(cat => ({
-      url: `${base}/${cat.slug}/${slug}/`,
-      lastModified: now,
-      priority: 0.8,
-      changeFrequency: 'weekly' as const,
-    }))
-  )
-
-  // Városrész (barrio) szintű oldalak
-  // Jun 16: boyaca-real, cedritos, ciudad-montes, el-chico, el-nogal, garces-navas, la-soledad, modelia, niza, santa-barbara
-  // Jun 17: alto-de-serrezuela, balcones-de-vista-hermosa, balmoral-norte, bosque-de-san-antonio, buenavista, canaima, capellania, castilla, chaparral, restrepo
-  // Jun 18: chapinero-alto, ciudad-jardin-sur, ciudad-tunal, colina-campestre, doce-de-octubre, el-codito, el-pite, el-verbenal, galerias, gran-yomasa
-  // Jun 18 C: horizontes, ismael-perdomo, la-cita, la-frontera, la-granja-norte, la-macarena, la-uribe, marco-fidel-suarez, maturin, minuto-de-dios
-  // Jun 19: muzu, nuevo-horizonte, pasadena, polo-club, quiroga, san-antonio-norte, santa-isabel, tibabita, torca
-  const implementedBarrios = [
-    'alto-de-serrezuela', 'balcones-de-vista-hermosa', 'balmoral-norte', 'bosque-de-san-antonio',
-    'boyaca-real', 'buenavista', 'canaima', 'capellania', 'castilla', 'cedritos',
-    'chapinero-alto', 'chaparral', 'ciudad-jardin-sur', 'ciudad-montes', 'ciudad-tunal',
-    'colina-campestre', 'doce-de-octubre', 'el-chico', 'el-codito', 'el-nogal',
-    'el-pite', 'el-verbenal', 'galerias', 'garces-navas', 'gran-yomasa',
-    'horizontes', 'ismael-perdomo', 'la-cita', 'la-frontera', 'la-granja-norte',
-    'la-macarena', 'la-soledad', 'la-uribe', 'marco-fidel-suarez', 'maturin',
-    'minuto-de-dios', 'modelia', 'niza', 'restrepo', 'santa-barbara',
-    'muzu', 'nuevo-horizonte', 'pasadena', 'polo-club', 'quiroga',
-    'san-antonio-norte', 'santa-isabel', 'tibabita', 'torca']
-
-  const barrioPages: MetadataRoute.Sitemap = implementedBarrios.flatMap(slug =>
-    categories.map(cat => ({
-      url: `${base}/${cat.slug}/${slug}/`,
-      lastModified: now,
-      priority: 0.7,
-      changeFrequency: 'weekly' as const,
-    }))
-  )
+  // Városrész szintű oldalak – üres, amíg nincs Santo Domingo tartalom
+  const implementedBarrios: string[] = []
+  const barrioPages: MetadataRoute.Sitemap = []
 
   const publishedGyms = getPublishedGyms()
   const gymPages: MetadataRoute.Sitemap = publishedGyms.map(g => ({
