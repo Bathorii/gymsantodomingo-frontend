@@ -61,7 +61,7 @@ Un estudio especializado te da algo que el gimnasio masivo no puede: atención p
 
 El yoga y el pilates tienen mucha demanda en Santo Domingo, impulsados por una comunidad wellness en expansión. Para los que entrenan con hierro, añadir trabajo de movilidad y core mejora notablemente la calidad del movimiento.
 
-Los precios de una clase suelta en un estudio boutique de Santo Domingo oscilan entre RD$500 y RD$1.500 DOP. Los paquetes mensuales de 8 a 12 clases suelen ofrecer mejor relación precio-valor.`,
+Los precios de una clase suelta en un estudio boutique de Santo Domingo oscilan entre RD$500 y RD$1.500 DOP. Los paquetes mensuales de 8 a 12 clases suelen ofrecer mejor relación precio-valor. Antes de comprar, pide una clase de prueba — la mayoría la ofrecen, a veces gratis, a veces a precio especial. La relación con el instructor y el ambiente del grupo importan tanto como el equipamiento.`,
     faq: [
       { q: '¿Qué tipos de estudios fitness existen en Santo Domingo?', a: 'En Santo Domingo encontrarás estudios de yoga, pilates, CrossFit, boxeo, spinning, funcional y artes marciales. Piantini y Naco concentran la mayor variedad.' },
       { q: '¿Cuánto cuesta una clase de yoga en Santo Domingo?', a: 'Una clase de yoga en Santo Domingo cuesta entre RD$500 y RD$1.200 DOP la sesión individual. Los paquetes de 8-10 clases resultan más económicos.' },
@@ -74,9 +74,11 @@ Los precios de una clase suelta en un estudio boutique de Santo Domingo oscilan 
     h1: 'Entrenadores personales en Santo Domingo',
     intro: `Santo Domingo tiene una oferta creciente de entrenadores personales certificados disponibles para sesiones individuales, semiprivadas o grupales — en gimnasio, a domicilio, en urbanizaciones privadas o en formato online.
 
-Las credenciales importan. Pregunta directamente: ¿tienes certificación NSCA, ACE o ISSA? Un entrenador serio responde esa pregunta con confianza. El valor real de un buen entrenador no es darte la rutina — es corregirte el movimiento cuando la técnica falla con la fatiga, empujarte cuando tú solo te habrías rendido, y sacarte del estancamiento cuando llevas semanas sin progresar.
+Las credenciales importan. Pregunta directamente: ¿tienes certificación NSCA, ACE o ISSA? Un entrenador serio responde esa pregunta con confianza. El valor real de un buen entrenador no es darte la rutina — eso lo encuentras gratis en YouTube. El valor está en corregirte el movimiento cuando la técnica falla con la fatiga, empujarte cuando tú solo te habrías rendido, y sacarte del estancamiento cuando llevas semanas sin progresar.
 
-En cuanto a tarifas, una sesión en Santo Domingo cuesta en promedio entre RD$1.000 y RD$3.500 DOP por hora, según experiencia, certificaciones y modalidad.`,
+En cuanto a tarifas, una sesión en Santo Domingo cuesta en promedio entre RD$1.000 y RD$3.500 DOP por hora, según experiencia, certificaciones y modalidad. Las sesiones semiprivadas (2–3 personas) reducen el costo por persona sin perder demasiada atención personalizada. Muchos entrenadores trabajan en parques — el Mirador Norte y el Mirador Sur son puntos habituales para sesiones al aire libre, especialmente temprano en la mañana antes de que el calor apriete.
+
+Un buen entrenador en Santo Domingo también entiende el clima. La hidratación, los tiempos de recuperación y la intensidad se manejan diferente cuando se trabaja con 32°C y 80% de humedad. Si el tuyo no habla de eso, algo falta.`,
     faq: [
       { q: '¿Cuánto cobra un entrenador personal en Santo Domingo?', a: 'El precio de una sesión varía entre RD$1.000 y RD$3.500 DOP por hora, dependiendo de la experiencia, certificaciones y modalidad (domicilio, parque o gimnasio).' },
       { q: '¿Los entrenadores van a domicilio en Santo Domingo?', a: 'Sí, muchos entrenadores personales en Santo Domingo ofrecen servicio a domicilio, especialmente en urbanizaciones de Piantini, Naco y Bella Vista.' },
@@ -87,9 +89,13 @@ En cuanto a tarifas, una sesión en Santo Domingo cuesta en promedio entre RD$1.
   },
   eventos: {
     h1: 'Eventos fitness en Santo Domingo',
-    intro: `Santo Domingo tiene una agenda fitness activa durante todo el año. Competencias de CrossFit, carreras, talleres de nutrición y ferias de bienestar forman parte del calendario regular.
+    intro: `Santo Domingo tiene una agenda fitness activa durante todo el año. Competencias de CrossFit, carreras urbanas, talleres de nutrición y ferias de bienestar forman parte del calendario regular de la ciudad.
 
-Los eventos son también la mejor forma de encontrar tu comunidad. La gente que entrena en serio se junta en estos espacios, y ese entorno te empuja a otro nivel. GymSantoDomingo.com publica competencias, workshops, carreras y ferias fitness con fecha, lugar y enlace de inscripción.`,
+Los eventos importan por dos razones que van más allá del día en sí. Primero: te dan un objetivo con fecha. Cuando sabes que en ocho semanas hay una competencia o una carrera, tu entrenamiento cambia. Deja de ser rutina y se convierte en preparación. Segundo: son el lugar donde encuentras a la gente que entrena en serio en Santo Domingo. La comunidad fitness real de la ciudad se concentra en estos espacios — boxes, estudios, entrenadores que valen la pena, personas que te van a jalar hacia arriba.
+
+El malecón y el Parque Mirador Sur son los escenarios habituales de carreras y eventos masivos. Los torneos de CrossFit se organizan en boxes de Piantini, Naco y sectores del este. Los talleres de nutrición y bienestar suelen ser en estudios boutique, muchos gratuitos, especialmente cuando un estudio quiere captar nuevos alumnos.
+
+GymSantoDomingo.com publica competencias, workshops, carreras y ferias fitness con fecha, lugar y enlace de inscripción directo.`,
     faq: [
       { q: '¿Cuáles son los eventos fitness más populares en Santo Domingo?', a: 'Los torneos de CrossFit, las carreras urbanas y los talleres de bienestar en Piantini y Naco son de los más concurridos.' },
       { q: '¿Cómo me puedo inscribir a eventos fitness en Santo Domingo?', a: 'Cada evento en GymSantoDomingo.com incluye el enlace de inscripción oficial. Revisa las fechas límite de registro.' },
@@ -100,11 +106,13 @@ Los eventos son también la mejor forma de encontrar tu comunidad. La gente que 
   },
   bienestar: {
     h1: 'Bienestar en Santo Domingo',
-    intro: `Santo Domingo tiene una oferta sólida de centros de bienestar: masajes terapéuticos, fisioterapia, nutrición deportiva, psicología del deporte, meditación y spa. Si entrenas en serio, varios de estos servicios son parte del protocolo de recuperación, no un lujo.
+    intro: `Santo Domingo tiene una oferta sólida de centros de bienestar: masajes terapéuticos, fisioterapia, nutrición deportiva, psicología del deporte, meditación y spa. Si entrenas en serio, varios de estos servicios son parte del protocolo de recuperación, no un lujo opcional.
 
-La fisioterapia es especialmente importante en el trópico, donde la combinación de calor, humedad y entrenamientos intensos genera una carga adicional sobre articulaciones y tejido conectivo. Tener un fisioterapeuta de confianza que entienda de deporte es una inversión preventiva que vale la pena.
+La fisioterapia es especialmente importante en el trópico. La combinación de calor, humedad y entrenamientos intensos genera una carga adicional sobre articulaciones y tejido conectivo que en climas templados simplemente no existe en la misma medida. Tener un fisioterapeuta deportivo de confianza antes de necesitarlo de urgencia es una de las inversiones más inteligentes que puedes hacer. Pregunta en tu box o en tu gym — siempre hay alguien con una buena referencia.
 
-El nutricionista deportivo puede marcar una diferencia real. La alimentación en un clima cálido como el dominicano requiere ajustes específicos de hidratación y electrolitos que van más allá de los consejos genéricos.`,
+La nutrición deportiva en Santo Domingo también requiere un enfoque específico. El calor y la humedad del Caribe cambian los requerimientos de hidratación y electrolitos de manera significativa. Un nutricionista deportivo que entiende el clima local te va a dar un plan diferente — y más efectivo — que uno que trabaja con pautas genéricas diseñadas para climas fríos.
+
+La oferta se concentra en Piantini, Naco y Bella Vista, pero hay clínicas de fisioterapia y consultorios de nutrición deportiva distribuidos por otros sectores de la ciudad.`,
     faq: [
       { q: '¿Qué servicios de bienestar se pueden encontrar en Santo Domingo?', a: 'Masajes terapéuticos, spas, fisioterapia, nutrición deportiva, psicología del deporte y meditación. La oferta se concentra en Piantini, Naco y Bella Vista.' },
       { q: '¿Cuánto cuesta un masaje en Santo Domingo?', a: 'Un masaje relajante o terapéutico en Santo Domingo cuesta entre RD$1.200 y RD$3.500 DOP por sesión de 60 minutos.' },
