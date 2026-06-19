@@ -1,0 +1,53 @@
+name: Daily gym publish
+
+on:
+  # KIKAPCSOLVA – gym profil oldalak még nem élnek, ghost URL-eket generál a sitemapban
+  # Visszakapcsolni amikor a gym [slug]/page.tsx template kész
+  # schedule:
+  #   - cron: '0 9 * * 1-5'
+  workflow_dispatch:          # csak manuálisan triggerelhető
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run daily publisher
+        id: publisher
+        run: |
+          node scripts/daily-publish.mjs | tee /tmp/publish_output.txt
+          PUBLISHED=$(grep "^PUBLISHED=" /tmp/publish_output.txt | cut -d= -f2)
+          echo "published_count=$PUBLISHED" >> $GITHUB_OUTPUT
+
+      - name: Commit and push if gyms were published
+        if: steps.publisher.outputs.published_count != '0'
+        env:
+          COUNT: ${{ steps.publisher.outputs.published_count }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.email "bot@gymbogota.co"
+          git config user.name "GymBogota Publisher"
+          git add publish_queue.json
+          DATE=$(date +%Y-%m-%d)
+          git commit -m "publish: $DATE — $COUNT new gym profiles live"
+          git push
+
+      - name: Summary
+        env:
+          COUNT: ${{ steps.publisher.outputs.published_count }}
+        run: |
+          if [ "$COUNT" = "0" ]; then
+            echo "✅ No gyms due today — nothing to publish."
+          else
+            echo "✅ Published $COUNT gyms — deploy triggered automatically."
+          fi

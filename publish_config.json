@@ -1,0 +1,9 @@
+{
+  "portal": "bogota",
+  "api_url": "https://gymbook-api-production-c43e.up.railway.app",
+  "daily_count": 5,
+  "working_hours_start": 9,
+  "working_hours_end": 17,
+  "timezone_offset_hours": 2,
+  "start_date": "2026-05-18"
+}

@@ -1,0 +1,44 @@
+name: Deploy GymBogotá to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build GymBogotá
+        env:
+          NEXT_PUBLIC_API_URL: ${{ secrets.NEXT_PUBLIC_API_URL }}
+          NEXT_PUBLIC_CITY_SLUG: bogota
+          NEXT_PUBLIC_CITY_NAME: Bogotá
+          NEXT_PUBLIC_COUNTRY: CO
+          NEXT_PUBLIC_LANG: es-CO
+          NEXT_PUBLIC_DOMAIN: gymbogota.co
+          NEXT_PUBLIC_SITE_NAME: GymBogota.co
+        run: npm run build
+
+      - name: Deploy GymBogotá
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy out --project-name gymbook-frontend
+
+      - name: IndexNow – Ping Bing
+        run: |
+          curl -s "https://www.bing.com/indexnow?url=https://gymbogota.co/sitemap.xml&key=ff2a54de5f23415b816e281ee32d34e2" \
+            -o /dev/null -w "IndexNow status: %{http_code}\n"

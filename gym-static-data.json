@@ -1,0 +1,240 @@
+[
+  {
+    "id": "288b4e92-397f-439c-8c5e-8405384ecbf9",
+    "name": "Smart Fit - Chapinero",
+    "slug": "smart-fit-chapinero-5m2vdi",
+    "category": "gimnasios",
+    "localidad": "Chapinero",
+    "address": "Carrera 13 # 51-57, Chapinero, Bogotá D.C. 110231",
+    "phone": "+57 323 458 3063",
+    "website": "https://www.smartfit.com.co/gimnasios/chapinero",
+    "description": "Smart Fit Chapinero es una sede de la cadena Smart Fit ubicada en Carrera 13 # 51-57, en el corazón del barrio Chapinero de Bogotá. Con una calificación de 4.2 sobre 5 estrellas basada en más de 1.000 opiniones en Google, es una opción popular para quienes buscan entrenar en esta zona de la ciudad.\n\nLas instalaciones incluyen sala de ciclismo indoor, zona cardiovascular completa, zona de pesas libres, sala de entrenamiento en grupo, Smart Spa con sillas de masaje y aire acondicionado. Cuenta con Smart Help, botones de asistencia en los equipos, Smart Fit Radio y parqueadero gratuito para bicicletas y parqueadero por tiempo limitado para carros y motos.\n\nOfrece clases grupales, entrenamiento personalizado y planes de entrenamiento a través de la app Smart Fit. Los miembros tienen acceso a más de 2.000 sedes en toda América Latina y pueden llevar hasta 5 invitados por mes.\n\nPlanes disponibles: Fit y Black ($119.900/mes primer mes gratis), Smart ($139.900/mes sin compromiso). Matrícula: $9.900.",
+    "rating": 4.2,
+    "review_count": 1081,
+    "lat": 4.638873,
+    "lng": -74.065585,
+    "photos": [
+      "places/ChIJpzMpTpybP44R0WfRO5m2VdI/photos/Ab43m-uZyQuU4IzMn0elDlNXK3_EyT2Pc_N296KL_Ot4jTjTMXemVBME-b9sVYVZqiFQXh8SyWqCeDkW_BXaF-cdKuu81KWAUItiKoTS-Eyjbjltu1Mkng_QyUQa53uLLJRCA1J4SqmAEcsWATsSjL5wblJy6oDXSLjYQu6qQtO9K6CYMuZYY0sZPoHQjXh7qiruJDdwTYuaXtJATWj0zlODFKNWUZiwj3EEFqR5menwdjC7FAGeqmffauOYoZrrg17Yw-px6_p_aKDCDy1JuuozPXRIBd22Kv5BXDL_XPsiBi6N1g",
+      "places/ChIJpzMpTpybP44R0WfRO5m2VdI/photos/Ab43m-sSZUXXPkF91YYUw51ltHYavvdHgZ_mdZ4Df0KjBXEd_YunDUTRpe8gxAWZtY3HSJRgLfqW2kmt5yVNnWGENIUjZNTsIUMFuNEr5idbDbicRrRpjeW9GoM0Zq25PkQ04rWTyY0LufFspjIHbUmD7wH3HdEelcr7jY1iN-TbAjSubfhDYN8SGaU71yYfu9BlgwiV92qCnaC_W7awYR7IpCAeACgt3ln4vJvzkcPTy9rOWei7QG3NNyHLFMMs5DZYgWt170BflxyfJgCdQ_ob1NaLS2-t47c6a9X1UC7NBOkSMA",
+      "places/ChIJpzMpTpybP44R0WfRO5m2VdI/photos/Ab43m-ud7q7OHUsti1p9s2rzum3D7MROVVXfSBbpbuyW91kfXUkgFJWLWiq4DVVovf5l2n2KmlLkj_JR_hvUgLy5A1gBGdM3FDL8rdayAxb_emZJNL364d1KbwGuL6m8YArPAP89xjPTvZ-bJuRPwXDEiXitj4xjF2D6Vi7cjSUYdEBWFPBekHJga_-59WAFEtZDwIWaf_Uqlb2PAWG6c4BzkWL5IXNC9FR22mUNlqqEj83z263dE8L4sEDtTW-TZIBsXoX1b07NFmNKPtGYyUiFwSb3vPry3AsOGzAqJVxjV04hxw",
+      "places/ChIJpzMpTpybP44R0WfRO5m2VdI/photos/Ab43m-uBpf9nLM2k-axsfL44yyg1ZGdz9zyxxIVs4U847UdffdyVNyz01ld2uH7lHnV_nhyOl0Ob-gLTdfvNdxyOodvRceOeq82n2eCftQ3VuQQEQIQ-vtNrUgsyzTCuDEs5yMMKB3y5iKa-77Fe5aqoOvu2a9NUvedE4yKvV9uLZjKtwzPSC9nBNSyE4Y09b8UBiQ_BT5zHQayVJvaVdzpXXvvDWmpv2hsBI_3WesS1MOA5DoE66cMab8lZwf4EFZHooUI3gBg6k1xjaWH4fbvCSUg1ZPt3Ad2zfF7ykrJWGkQDKShs7F8FSckF-BQgXc0O1-l77wz4D0_IIxbjJyVJvzoJAr_Mg40GR-H9fDW_toSiWxbFg5raftVEwIMYUDTg5p7opmbPwyJW77lH4N-yO3mOK7SWpl8iFzqELCYXt_uAng",
+      "places/ChIJpzMpTpybP44R0WfRO5m2VdI/photos/Ab43m-uGfjnuPlyde0TOrefZof0L3QauS4ynlhl6E6HxNCFipOKPLXm-lpnJmp3CqYbBgWgThksyrEDWEpzFzgLsoHE27mdgu8fwstpZBXgDW6O2f9isWY5-SPb1C49zFZwEnaj_XAWRJR3pXseMSIxg-smuXqoNZILH6lwWxIgF6iMzu9NQy6zGVwrup1a5_I7Pakv0EfVvoOfLJEyS1-mlOxF67IwyaPbvVY3XGq2LM04a2wzbAW5F83bQjuV1J4118l0AWJ4frkad5jSR2-dmCUaJWMCHKEmmKi4NrKdSVSwB0w"
+    ],
+    "opening_hours": {
+      "lunes": "5:00–22:00",
+      "martes": "5:00–22:00",
+      "miércoles": "5:00–22:00",
+      "jueves": "5:00–22:00",
+      "viernes": "5:00–21:00",
+      "sábado": "7:00–17:00",
+      "domingo": "8:00–17:00"
+    },
+    "featured": false,
+    "created_at": "2026-05-17 06:22:47.226891+00",
+    "updated_at": "2026-05-17 09:55:36.463882+00",
+    "photo_urls": [
+      "https://pictures.smartfit.com.br/6565/big/8.jpg?1564163241",
+      "https://pictures.smartfit.com.br/6567/big/27.jpg?1564163250",
+      "https://pictures.smartfit.com.br/6568/big/25.jpg?1564163260"
+    ],
+    "noindex": true
+  },
+  {
+    "id": "9b25ce97-2a6d-4a3b-9f8f-9bb539315f4c",
+    "name": "Smart Fit - Calle 85 Cabrera",
+    "slug": "smart-fit-calle-85-cabrera-esfj-k",
+    "category": "gimnasios",
+    "localidad": "Chapinero",
+    "address": "Calle 85 #14-05, La Cabrera, Bogotá D.C.",
+    "phone": "+57 323 458 3063",
+    "website": "https://www.smartfit.com.co/gimnasios/calle-85-cabrera",
+    "description": "Smart Fit Calle 85 Cabrera es un gimnasio de la cadena Smart Fit ubicado en Calle 85 #14-05, en el exclusivo barrio La Cabrera de Bogotá. Con una calificación de 4.4 sobre 5 estrellas basada en más de 900 opiniones en Google, es una de las sedes más populares de la cadena en la ciudad.\n\nLas instalaciones incluyen zona de pesas libres, sala de ciclismo indoor, zona cardiovascular completa, sala de ejercicio grupal y Smart Spa con sillas de masaje. El gimnasio cuenta con aire acondicionado, iluminación especializada y botones Smart Help para asistencia con los equipos.\n\nOfrece clases grupales, entrenamiento personalizado, análisis de composición corporal (bioimpedancia) y planes de entrenamiento personalizados a través de la app Smart Fit. Los miembros tienen acceso a más de 2.000 sedes en toda América Latina y pueden llevar hasta 5 invitados por mes.\n\nPlanes de membresía disponibles: Fit ($99.900/mes), Smart y Black ($119.900/mes). El gimnasio dispone de parqueadero gratuito por tiempo limitado para carros y motos. Para más información o inscripción, visita smartfit.com.co o contacta por WhatsApp.",
+    "rating": 4.4,
+    "review_count": 904,
+    "lat": 4.6695798,
+    "lng": -74.0546808,
+    "photos": [
+      "places/ChIJb14VxPSaP44Rct31HesfJ-k/photos/Ab43m-vg57T8xcLFCzuueJARGcGR9bxQ25izHubS9x8OJiq7gnAp2pSgG0AZkx8YNEZP7wyhMzIMuYAp38EnsBC_p-6JHK1b6e0SGRtU5DGf0Ll6vJ4j_dcxqTmC5NCRD1wDAGF7_RM04tFIA-5-kkd_DHmRR80WHrLQyPDm0lWAVIRq6qrzeQvfAX2_Gee6ifjfAerxI_JM9ayONd8pO-vKToK09lJYQeBt1uvRjptmyvEiRvE9rWpyyVyUO0YoXTK66Q1yWG5TigzbsZS4-PzczVzUNaWxZB978a3NEWM6CuCgTA",
+      "places/ChIJb14VxPSaP44Rct31HesfJ-k/photos/Ab43m-u7nWvHbXjL57cdXX2fCYY9NuA7FclQ9_wNspto9V0xgqwOpsm6irYuxQezIXbDjM0Akg7vu1nYWD2sBmEtp4R3qquSCSgoCzR3ZsbcqqSv3V-e4Uh22Sj7yIF6Rn21VFR8mTkF1bXgxV8DLRQbncpeb1VHaXY4L-o2sPLbLMD4py2jSJ0xH8ph3DzghbWz6DsAdE3l0gH0TyX-FlfBqeYmsx_9Wyquxoi1rb9AjuN2tdG29l3CNr_mzdpGriMOnZQI7ig3ZpHhOCOcZbG2HP_zs_uS0GToijLtGfh_baxIHg",
+      "places/ChIJb14VxPSaP44Rct31HesfJ-k/photos/Ab43m-sE0ZfDCj2lB4cN5WwrlNSkAbOdnBmeKcMMSyQfGnkiaBWGnIspT_2SX7VBXIiV9FJCWvPNd3J9iWGgoDHs-xYcg59ke6RD50OTbbta-Yu6dxbMGxc61yPeUKCvjbRINxF53v5SrcMhQlUi5hbrZKxf5PZx11pcNDdR6X8o0DcxCjW6OnCTWLDSA1AXrONuMAm_ViC0J8pSDx6OaEaC6URb_vh18xeTdoMmLcfBixB5dekfBsyDuw-SuIygVCc3m4t5mDVf1Wwnye5i831K3g12gpoTtP0-os1oOZEpDt0xWA",
+      "places/ChIJb14VxPSaP44Rct31HesfJ-k/photos/Ab43m-t8X44ZsyI932iMTeDtfz2kMaBUE03C6uIapd8oSuvps5isTmn1irBMks0RItRc7Yf45IW_45eOMP-9fX2uHA-CJ711qO4QA2_-WtInyyrULjpmkKan9Dvzl-JhbaIUVIs_NZNELhEdib8AHhAPBOB8EJYB6KG1zy8IvE7Tn3aHkC-T2xtrfFefEc_2S2EXKqXOHxv-h2EcfudzUKqThUQBKWTjpglntHv2KMXAYIwJfgKOfMbDT2Qtg945hQhxK3Mnhw__pjeqbYU4RkQiQ7DYBwYuyIxdxZJb6PqPMbmxjAAzGpxASvE71RwBBqhIoJ19GJ1lYZ3t5qHeQPujrAq9wbb5b7qdTYyXjg_n9Ev0F9a2_Oi0eCwetiH785vmyhbkqCfCOv1gHm69WIetKFC7omXE-K87YD4mt62kcYSyFA",
+      "places/ChIJb14VxPSaP44Rct31HesfJ-k/photos/Ab43m-u_nHwj4ZJZ2PdqtvrrfntFT_PlapAKO9LsdMO-OonBU6jhtqoxPlN-sgdXx2W8Ajw_rAOwHBKwiKBaI2m-0MGLGY6JfRopwXiMJY0Z8-QHqwJ6DEPiTXqszmeGh7pqg0aV_D2aimeSgj159V5gdP4-iaLfhElrHhWl6z-iMmM74x0qkeb8OU5TPA5OS--Vz2oTKfiEmguqWEPqHSL7Kv62UWKxcdg0UDfpt0NTO_1TUw_0d43Xo8JTZrUvcfRJTBo7Np2uXIulrVOJXO-ggYIIIDjbmZ9iGYtX-W_Vy43rQbkkcNSubkL3hMIXahY_Dv1TCarCweofNOIFKInXPQx-UiWFRyPg4wmCTLSUXjtVHtNNKFrCNoUaILnZv7Z4C1rKH22vP5BtmL5zUQrEd6LO1UnQ2e6uisSMJLLkhh6uZj4C"
+    ],
+    "opening_hours": {
+      "lunes": "5:00–22:00",
+      "martes": "5:00–22:00",
+      "miércoles": "5:00–22:00",
+      "jueves": "5:00–22:00",
+      "viernes": "5:00–21:00",
+      "sábado": "7:00–17:00",
+      "domingo": "8:00–17:00"
+    },
+    "featured": false,
+    "created_at": "2026-05-17 06:22:53.912822+00",
+    "updated_at": "2026-05-17 09:56:10.578669+00",
+    "photo_urls": [
+      "https://pictures.smartfit.com.br/15275/big/66b415134814e27e8ca42f467a403e53.jpeg?1722012087",
+      "https://pictures.smartfit.com.br/15276/big/1990a90f2d2954314c69a7d14ad4536b.jpeg?1722012096",
+      "https://pictures.smartfit.com.br/15277/big/9aa40273cc1c81043e95d1f0299e21a3.jpeg?1722012102"
+    ],
+    "noindex": true
+  },
+  {
+    "id": "f6a4555e-6fd2-48f3-824b-6af44cbbc843",
+    "name": "Athletic gym HUB 72",
+    "slug": "athletic-gym-hub-72-t5ccvc",
+    "category": "gimnasios",
+    "localidad": "Chapinero",
+    "address": "Carrera 26 # 71B-30 Local 2, Chapinero, Bogotá",
+    "phone": "+57 310 2328482",
+    "website": "https://athleticgym.com.co/sedes/hub-72",
+    "description": "Prepárate para darle duro al gym con el precio más bajo del mercado. Entrena sin esperar en una amplia sede con más de 100 máquinas de cardio y musculación. Logra tus metas en sesiones de entrenamiento funcional, quema calorías mientras te diviertes en el único Cinema Cardio del país y disfruta de la zona VIP de relajación.\n\nAthletic gym HUB 72 cuenta con zona cardio completa con más de 100 máquinas, sala de musculación con 100 equipos especializados, Cinema Cardio exclusivo, circuitos HIT, zona funcional y zona VIP de relajación. Una propuesta integral para todos los niveles de entrenamiento en Chapinero.\n\nUbicado en Carrera 26 # 71B-30 Local 2, con acceso fácil desde diferentes sectores de Bogotá. Para membresías e información: hub72.gerente@athleticgym.com.co",
+    "rating": 4.5,
+    "review_count": 778,
+    "lat": 4.6624856,
+    "lng": -74.0698746,
+    "photos": [
+      "places/ChIJGwuMKaubP44R-xFCut5CCvc/photos/Ab43m-v8eUXLfMjeSB5vejCOwpYEudfGCiL4dmg0wTe7a33xdNpW8AXxFr3iki0mLbGkrzsI50yObNqUERkYKf7Az0EmlfAqDlTLLbc1-5HTyLGLhqiALyLPURzc5219oYlcqBKz1N5yd90_T001bITKuuwM_ADaVuoqcMpNla79VHP3ixLPqLvtSr_MFRFko1QeDPll9NNuEqgAox_TeJLoJHF6YP9PKjnBrJs1QciaKSZKP6fiQaDD-_qAYTmgJ5Qp1eeuN8Rqo2gqGqNVhNHi5YTOw3z_D56vFmtjCt-5tR9pHUEAFAJmVIOSREgRS3yoB1nXx8WBP0XJimx42jZhVT56B_YveLbGCoxARVOvd60XbTZlSyJiaCc3G_xQkHgJMGsLaSGnl0jK3PNy8ZI60mGLRnLZ-_OtLWkoRduyBBxzm7UI",
+      "places/ChIJGwuMKaubP44R-xFCut5CCvc/photos/Ab43m-tAN24h9cvbvkhGpk0fCrdliblg2oeWImLiF2Fo88gqnq_lITsDtcD51w5LEanqZ4h1YQ-9sJfbWT2VWtss_iLbX9hRwNRrK6W4IvEyH_qgJI8LUTdvjCAKiBxov3alyqckpNN416LKjjg8o2x4WddklRkdewA1VBvUo8ZZJpuDtvnz28WJ-emDutXa_8DugZBhoL6vOhuSvYED2mdC19hLscV9a-3vHmOvwVoltdHx1sm-i6NclhJFfkrUhpXMYifPUg02VfPaJV036WdB_TumgofmB73FOw05Bly6zXkECzAWY7k_38_c0794kGs_NSZjGQd69UmAXWtuQRWHz6KvMcnJETGO4GY9Pwyb3MqCW0GGHl6Kv-8Lt_VLEZwIvgm81BtIYDv60y9z1pSdBFkVkZ5ZqJDRny5hmY1wJFIvnA",
+      "places/ChIJGwuMKaubP44R-xFCut5CCvc/photos/Ab43m-u9srLk_XmIJEhFTkayyrQ_h6omoRGnCjep0B7HYhZud4Ns_VXyk3P21pRT6Z3ICRQ0mY5kdrQ1t8g98-UfsX5vCQh5mJqp6CDORoAtq23gBt_SEqMuOZXzlYnT_8K27beVsQb5IpfPWSigeNM803IQNd9ZkJAylfABTgRQsrt1u5sPrtPnrMlKddrMIOyqikj2zw85NJnQTwD8v0eSmRNVvQWXcUtcTM4TpcovL-gQhpQlM9_N57bVyvO2v4-_oeIUAobzXmDjjSiHKw_rF1Nk-wDTY6SjB3UnGi0JAGUZLqv1fdu-sDjcXlrM6FJ_hB-l8gQ1WThLH_nhZ51xhHlsPcLGa7BwgPWtywIEs1JixGAYazPgsmmpjdfj0iURY_TFFmIKfpjMGO4sxfHi0PxBsxquPrMLxPP4vJItybJyKBU",
+      "places/ChIJGwuMKaubP44R-xFCut5CCvc/photos/Ab43m-sshfY462wpy9JJtG_050KTFGGSKiEMYCz2angzsMjenhcjue2HOSeIrbEkJGFy317Di8KuZg9dJaqyCrR2YAQfMlLhno0qX4LdxJ0VRqpmghaRhnLWvJfJhvuOOt9Ez1Y_QSQZjkT1Ke_-fMVlRxIPdyFTO7p3aPPhpjybkkDoKFNwYahCQ22QxZ_QMhXIEXWlo69Wyhj3aHKhKsu8JmBnbMPfg58lOby7fn5MF1QZOTbtmEgS03mxIS8EWD8JAd9lFFVtoRenvFO7v2IUZYmsKq--ammeedgIzzNed420MJwbFj5A7c8-CTWeVImw7m37tL9alBl0X7RI_72hws8aqA2BWfYhGKa3CanERPBUQLe2D3ToFHmU29Do_bIi6ek7h53uZvA7OPyDXtetFzCnz_r1ktUg0VkwbYYN9SG6Hg",
+      "places/ChIJGwuMKaubP44R-xFCut5CCvc/photos/Ab43m-sat1EopDT-PLA0MiQepfDdlwPLLb1eCgCWhBFQiA256JF5E5NOPgnoy4dS27hdFFWHa_fOcgZFUvVOwKO7GIfr5rS_1yDMABRuzrayAXCzQRHtI_ZiVuIqAgt6Uir7TJBsuVn37F3bi6u4H5jadsl363RuDlu4SNvq_qEcwk4zlSwtIH0hFPj3Ee2erzaCSCHMZXguK5Dp5ilpQ4XiGl94XC8Y2UaUal1Ml80NCGyn7N23uP8b8v3b7-MOqeNem6MLxQL5hoFiJSLgpIU2tewavrz8Aqz7vmNZzjAzArInNgxqjqjCewCy9FbzMD4Vg-bbhzWPYd9VqYXC2n5BBA7mDtJWS3iibxN052E3gnEV0rX9Q1YfOTGGMMSRk-o-6DQmOJEaygTX1AkZ7UTWdbFwhgv65yegyYDW99RSQJdJEA9m"
+    ],
+    "opening_hours": {
+      "lunes": "5:00–22:00",
+      "martes": "5:00–22:00",
+      "miércoles": "5:00–22:00",
+      "jueves": "5:00–22:00",
+      "viernes": "5:00–21:00",
+      "sábado": "6:00–18:00",
+      "domingo": "7:00–17:00"
+    },
+    "featured": false,
+    "created_at": "2026-05-17 06:24:28.479602+00",
+    "updated_at": "2026-05-17 09:57:12.479722+00",
+    "photo_urls": [
+      "https://athleticgym.s3.us-west-2.amazonaws.com/sedes/6669fd306526d.jpg"
+    ],
+    "noindex": true
+  },
+  {
+    "id": "b8d361a7-be67-4a75-beea-de4c13d09255",
+    "name": "Bodytech Chapinero",
+    "slug": "bodytech-chapinero-hn8csy",
+    "category": "gimnasios",
+    "localidad": "Chapinero",
+    "address": "Carrera 7 # 63-25, Chapinero, Bogotá D.C.",
+    "phone": "+57 601 7430792",
+    "website": "https://bodytech.com.co/sedes/chapinero",
+    "description": "Bodytech Chapinero es una sede ONE PLUS de la cadena Bodytech ubicada en Carrera 7 # 63-25, en el barrio Chapinero de Bogotá. Con acceso a 64 sedes en Colombia, es una de las opciones más completas de la ciudad con calificación de 4.6 sobre 5 en Google.\n\nLas instalaciones incluyen zona cardiovascular con TV por cable, zona de musculación con equipos de peso asistido y libre, zona funcional, sala de Indoor Cycling (CyclingTech), salones de clases grupales (combate, aeróbicos, baile, meditación, Pilates) y zonas húmedas con sauna y turco.\n\nTodos los planes incluyen evaluación clínica, programa de entrenamiento personalizado y asesoría de entrenadores en planta. Planes disponibles: Welcome Pack $180.000/mes (1 mes, solo nuevos afiliados), Año Estudiante desde $165.417/mes, Año completo desde $194.584/mes.",
+    "rating": 4.3,
+    "review_count": 760,
+    "lat": 4.6480461,
+    "lng": -74.0597436,
+    "photos": [
+      "places/ChIJ0SFyMUeaP44RSqhj1hN8cSY/photos/Ab43m-t19F_N2johi6-KHKx317FJynIB_CacqgfP33Rzz9vilauy-wy1Nlk22Bd-XzCuem4KdENFqH-7UWZkuXu8B7G5-doixV6IY0HlNYBvsoZFxfPtvWoFPbQO0y8wb5yFs7s6noqqMQFzZVtgE0Fkj1c_9Q-lG4XRZkrpuyjuJEdjapmSR3hRiWiyr_GDMzC3fkAPU_w2bAuzDZQILmgUkhIVoAkKz_xpDkrfUzDYy0kE6L44CHEzg3mENcZ-C92TkK3xI373EkwYb5DlNuQ-bmjpKHMZvmpspatalpIu4Dr3haW4nMAZwYhFMXEsiKvYyaTqT2GGzLhuM6MxWFYWXt1FU1bN4cD8lZCLJyoMbeyY9Za9w-k9EzPOqZtDN5EgitaFy1dk-M3UM2oaVQDvsadJVuGGdHdY-rK526XPA9c90Ix9",
+      "places/ChIJ0SFyMUeaP44RSqhj1hN8cSY/photos/Ab43m-uB_MVcNfvi3Ftpwr2WqLBa1m8RigETLLU93YH0RffXLsQHncyoyYlG9tTrdi-LsvVdHgnR1nssCW8-1Mbrk8uIeq2c9or-rb5JBh6UedV5Mmd0H6H4Rv7CqkQURwvqJTr4rB0QitlaKKFZm2SO_DU6Qxapxu53lh2T7Z8C9k6h_1cnuOLXHaGD2-5lmw5WViH5NgPIuD6cDlI5Zup1rBokbJzClyBzJY5qmyYIQvjz6flAzfl_NWXgC08m-IKh1r6dogBHelc4ddim7JbMKabZozYw-Rwq1wxIembQQSgQ4U9XkE66WeQ4QptGjbDKwtw3iVMnuVXvOg-Fev5xpMaz_8zWlLtJPv3bJTrCDuOxMxOcY0sbya3n9msnue20OJ_gm53FOj6gmWofGEcxxtGr-ia7WgXRb4WSfA8TnPIeJyQOHnvMShZXUFNPxWDI",
+      "places/ChIJ0SFyMUeaP44RSqhj1hN8cSY/photos/Ab43m-v1b3BgmBnfss0CbEVIAUDLW7-iIXOgXhSpZZtxVM_kpN91Ali20QA4TouyYMkKGIjrwcUkFqQI4nfazncJ2wdtraKD_JlrYP9w9vuUZuyZgfWQ8soL8SCtJbE1UPC38VvYfkT_kfEF5vafCxUJsmZuIjeYJvIT9fwuTb1IJyYakMwSijQKt_-JPUiMzSkphE7BqpWX82tIeXOLfsIwdRsixGKQtKNY2Pi5T90a9-vQqW7az9EEVqC2RChmkQinEDuGDn0t77yRDaldcS1cIMHeVlEA1QL7Dalcl-A6UfGn2X8knFZ5GZjbN_34AAfBBdvFJTJZQd7RjiKjAm16EyVFkshE2iU2hwI8XHqefUxdWM5AYecOVVtqsrtW6-vtNp9gcG7e6iZqDKnRfBDztgfuywdnOXzeh-hVLnUqgZwRnMHi",
+      "places/ChIJ0SFyMUeaP44RSqhj1hN8cSY/photos/Ab43m-urr-4mGSwXKQYw1nSAu7jyroulr47jBQ1hfpo39dbyGg4zu1-oAaxCciQq5rUO3f9Hv-L_h_K8ozYYWtwdSVD0DLl2uFM0163TPkD0iHPo2tSixQEACFYbFSqbURoGlUFB8eaaxDLvUUg3Si3E7CYgDVg4XYSGiS5kO_y6bEGbuR0p7jiYbAw-r-chK5G-MAinEXOREQrW4ncN8zkSfg_4J60h_56HmfPE1aftQXQYBP8YdDy7_68kcZodJV3qXJp8hAIwjvlGCm37gJfWk4SpxjQRYzupkUGfK72LG5jZuQNZ4AGKMZNGYCl0QDnB12LXABQvi6l_ititnwT1rmDY17GzeH7IS4UOA6FwWElAeHwnglT1JPLdWN7IbYi_gyTxZOPbxbVBb1UxfUtfuDXV2bJR-4jrbDST90q5gBpCW9xP",
+      "places/ChIJ0SFyMUeaP44RSqhj1hN8cSY/photos/Ab43m-saZrGGSahokfN0yR8umGP5pNkJR4atHEzkNCPcrT31FIGMTLfpnjaADTZeyIE7UquFnjX5FjWWBzogTw3oG-dzFHBdfgWOqGb6Z1BW8xHpOehZ_E_vioX4KwhuGEINMjJiDtXT0W5QhSz_rX1hPmly26ThwIRzikfxGCDHJpMyn_FU7TNTesvjvrF-njyGbbJvmWX6TJpV0oTVRGvq3SMSeQ6TmYD-7VB5o3AnmAHDOMV1FSXGxkmwYmy2D2pTMIJET3E5fVfsuDja8VuTPTSWM8hHAhN_xTq4Qp9bt5FV9A"
+    ],
+    "photo_urls": [
+      "https://bodytech-dev.s3.us-west-2.amazonaws.com/venues/venue_21/img/desktop/bodytech_chapinero_portada_1920x622.jpg",
+      "https://bodytech.imgix.net/venueimage/cec4ccebee15457089643047730c64ac/bodytech_chapinero_galeria_1.jpg",
+      "https://bodytech.imgix.net/venueimage/06402ab36ebd45d6aff4d22852f93fe8/bodytech_chapinero_galeria_3.jpg"
+    ],
+    "noindex": true,
+    "opening_hours": {
+      "lunes": "4:00–23:00",
+      "martes": "4:00–23:00",
+      "miércoles": "4:00–23:00",
+      "jueves": "4:00–23:00",
+      "viernes": "4:00–22:00",
+      "sábado": "6:00–20:00",
+      "domingo": "6:00–18:00"
+    },
+    "featured": false,
+    "created_at": "2026-05-17 06:22:48.528853+00:00",
+    "updated_at": "2026-05-17 09:57:26.609711+00:00"
+  },
+  {
+    "id": "644c3818-0236-4a80-821d-e63261509201",
+    "name": "Healthy Gym Chapinero",
+    "slug": "healthy-gym-chapinero-opmb9i",
+    "category": "gimnasios",
+    "localidad": "Chapinero",
+    "address": "Carrera 13 # 58-24, Chapinero, Bogotá",
+    "phone": "+57 314 2150638",
+    "website": "https://healthygym.info",
+    "description": "Healthy Gym Chapinero es un gimnasio profesional ubicado en Carrera 13 # 58-24, en el barrio Chapinero de Bogotá. Con 1.200 m² distribuidos en 5 pisos con ascensor, ofrece una experiencia completa de entrenamiento con múltiples zonas y espacios sociales.\n\nLas instalaciones incluyen zona de pesas libres y musculación, zona cardiovascular, salones de clases grupales, duchas y 5 opciones de parqueadero cercano. Cuenta con evaluación antropométrica y plan de entrenamiento personalizado incluido.\n\nPlanes de membresía: 1 mes $130.000, 3 meses $280.000 ($93.333/mes), 6 meses $480.000 ($80.000/mes), 12 meses $800.000 ($66.666/mes). Contacto y más info: healthygym.info",
+    "rating": 4.5,
+    "review_count": 655,
+    "lat": 4.6447904,
+    "lng": -74.0641372,
+    "photos": [
+      "places/ChIJm6LTOziaP44RBbz81OpmB9I/photos/Ab43m-veN5V-RGVQPFIpoJUkCp_o0OHaNBdBf72utX-Lw1YpizcOxYHPkTiMsbGRN5EeQpb1YzABHaxl_eC95egsxPzOlJx4xJBSC1zJhJqf5gfz55qeN4tArwrhVGX7pLcl4AEz-eKlmqxQPzMeDyyWthZSJRQiHVXyHrhwkB5lprNU1Z7wZ7nNoSccYWdKd5q14znzbza4tYvulPaHTrepJKWBPc8N6Urg0xNzYkMcQUBKHZ2tOe6VWx9RghJyYh-nbViSf3t95HRDy_ch7gv9nVAmMPbIpHFt2aWNTXeECifA-CPGzFxlZXyBv4J4uRIEAE9qJ4a2CZAbk1X7Q4kT7I8WhR86Y3r2MBRBHJZaCTik4j09eeG4v7WpRtbKgE_ngydy-ucdyfzXz0sbiEz-fso4iZZPDhpP1i9EkQXdFuDBpw",
+      "places/ChIJm6LTOziaP44RBbz81OpmB9I/photos/Ab43m-sDSBa7Q12YBsxwivwdkqi-xLwVUmqhJnI91wGxyzzKRP1ZXJMn5rbVdcEZBSaH-E0VrdVJYyTRvdbSRUgPOwB-diBLWqiHm5VDIoNBptKGBKdKve07K4E66dYHSCu4gR9y_7tfLmdh5wQ3w-iTNH3M6Nj8emxHPPIBK2uxzmLMqtYT8NWYWH-hcsZ6FouYXg18fOAUmCxcw-uzpi-F-4rR4U8k-H2pryVxWRqIURGTz2BxNdp7qxE1e-BMbxiWZQxshrnbLnO2Gurh67r6bC86dfJLbfMx9xPHxO0tmTwdLelA-DaCjxZdBZ542pNA8ohvqICBWMB5ZxlyfwJPMWYgErFykw8O4X_w5bmpOiq3IcDQFbXkrxzw9j_cfeLmb7yLhHcA_Bk3bjngbsB340svKhgPi18xo-EiWlPpTMSlwg",
+      "places/ChIJm6LTOziaP44RBbz81OpmB9I/photos/Ab43m-vdWd5L4MRgkiJpa7lpH_TxYsY6qaZEa_jaYkRmw2W5gZjFiEukc5dOTbqVlH9GTt70N6iP9Ry6TrHg8eNdg2AgGm-D57JBMKmdNM5AYS8WtaRPX_35xHwpmjgpGfHq9Qe-NSvwmoB-r1_xxDJVSCPQctge0aCuAa7GrJxW_5lmXd1K2U96IJvYYMCkCl9LZHsVT9yiZnT-Yuh5viBjpTJ1Y5UF_UYZu14yt3ARVJk1jF1xg23LHswdwMQ0yvy5NLUdWsflvmeuiC6V1JGmfGx-ew3_npu0Kysw6J7WAYjwfcOW6ZkzHeBqdCf8-GHy5uo0wSDVQsZgsJGoqrJ38_qO7flr2wiRu8RzQ44ctI8bnSlYBNzxXPz7DNatVNUuVaD9_eRzz2YbDzwxGlz8bx-SbhUu5c62fQPxfxj3IVSoU2L2",
+      "places/ChIJm6LTOziaP44RBbz81OpmB9I/photos/Ab43m-v2M78Hg80jDsH-2YYRFHzgownM_GCrzyUsNAzZjlpG9D_SHe07lpije7EnNnT1T9ks2iqAm40mzxUHXZHaSQINNVRV2OoQB8qth5AyuTtGSnD5DzVFQLcnXF8ZgLEwAXdjbvHzfhWsfOjp8igJ79qCQQZFL5S3_8z-RStTeQeyFjM9He2uPHLL5k7yi29xGeym26sHwfOM6Kt9EpQfXA5DdO45ZHSvttS08EKyI1mFpbhNpCbluH7qqPomI_1-8h_HySyy73ys4zVlg5Vmhg58VQstIgCW2kHIxmb2CNoxUFwhI8LnXtdiSaoULMiEzw79G_vLnQhi_c_RNOKYnuQ6tQ4e6qSnquCpyA_Ah0wCU0WtCWyCsWnzLLrzWgLGPEaqipxrZPUdJkVPHMCCD-M6UZmhDTw66iRY7zIdV4iFyg",
+      "places/ChIJm6LTOziaP44RBbz81OpmB9I/photos/Ab43m-vFlJQ4yeIjFVJeo49feY4s8f-yClJW2lOQId8QJBceTljHlF-liMOTrsxnmzuG8XCv5mxhKxetfdJXRbHc70gmQUDPvkT-SM1dZ5HMEYHfquFqefWZ4UiQX98lQH7hm0pRW-M47-PtJQNj_pTYkZJy204kqP8PPqSAEyFTrlp6pebAWk_lO9an9ryjBU0aUN8vlHFjCohXqADDotfknqaa-9jgmw8lo18ufSEn2DdIWRzQCRh11FoAiqyLtgAT-v1Sd5XbJFVj_ll-sguRcgS2xm7ADmYXFWpL2pLQSUWsDiD0nkSVvm-eMFIWs_QZ6Om2WC2F0RsQKcbMcuB_Mdi82vRUx6as6N-e-aYLdG56svRBFOfnjVkWks12tk_JiB9izSfVijhOvz89CY5AYqUmfI9QX1yJEHJ1Cr2Fmomu2w"
+    ],
+    "photo_urls": [
+      "https://lh3.googleusercontent.com/place-photos/AJRVUZOsSoc6qTL6I8ryPf9moNnSZHzuyQetcV3XcGJYhJU4v0DfxG7y-uQRVgb8TiucObGROvNFCqK8ylWLBxXXJiv5Xech4xDh9booU2ZVE32w5RqMqr2kv4DfE2kumXHIbf4ZHbYCSqG_WiczJQ=s4800-w800",
+      "https://lh3.googleusercontent.com/place-photos/AJRVUZPnLYUvH2Ij8CU-QdLJa63UkEwGHeQxK4qTzkUXz-aC2ujEeGAfKgXaYVqwL_p7H1mlOtEQxLzjX2Zp_DU7qM9qcf3LDp8-Q1xgQw9Iut51wj0jBN5AXhHQhV1XAlqjtlENic8qvcShq_gX6g=s4800-w800",
+      "https://lh3.googleusercontent.com/place-photos/AJRVUZPPYQQm-T3fxNxQtI9moDQ90SAbD0uKnJ2ZHt03rclpXqGsN6SlP_5rV58mxk2LWyfOvWzJnVOhocGN2qZmoJxBTD07qqkRqUePfhankZBJM3lA63VQlWfkDnYM5v8zS7ZsUrma-XkhlecWiJU=s4800-w800"
+    ],
+    "noindex": true,
+    "opening_hours": {
+      "lunes": "5:00–22:00",
+      "martes": "5:00–22:00",
+      "miércoles": "5:00–22:00",
+      "jueves": "5:00–22:00",
+      "viernes": "5:00–22:00",
+      "sábado": "7:00–17:00",
+      "domingo": "8:00–15:00"
+    },
+    "featured": false,
+    "created_at": "2026-05-17 06:22:46.576843+00:00",
+    "updated_at": "2026-05-17 09:58:13.679732+00:00"
+  },
+  {
+    "id": "68b3da99-b088-4742-986e-84056c59717b",
+    "name": "Stark Smart Gym Cl 43",
+    "slug": "stark-smart-gym-cl-43-ct4abc",
+    "category": "gimnasios",
+    "localidad": "Chapinero",
+    "address": "Carrera 7 # 43-53, Chapinero, Bogotá D.C.",
+    "phone": "+57 310 2149162",
+    "website": "https://starksmartgym.com.co/sedes/stark-43/",
+    "description": "Stark Smart Gym Cl 43 es una sede de la cadena Stark Smart Gym ubicada en Carrera 7 # 43-53, en Chapinero, Bogotá D.C. Con una calificación de 4.5 sobre 5 estrellas y más de 600 opiniones en Google, es una de las sedes más valoradas de la cadena en la ciudad.\n\nLas instalaciones incluyen zona cardiovascular, zona de musculación, zona abdominal, y amplio salón de clases grupales con más de 14 disciplinas: Box Fusion, Bodypump, Yoga, Pilates, Dance, entre otras. Los entrenadores ofrecen evaluaciones físicas y consultas nutricionales en sede.\n\nLa cadena opera 7 sedes en Bogotá. Para afiliación online y pase de prueba gratuito (Free Pass) visita starksmartgym.com.co. Contacto: +57 310 2149162",
+    "rating": 4.3,
+    "review_count": 637,
+    "lat": 4.6308386,
+    "lng": -74.0645933,
+    "photos": [
+      "places/ChIJmROeGiaaP44RRS2ovct4ABc/photos/Ab43m-vw5hFet4gnryA6eQHmbFlwmyffEHo8Mk6P8eY8jy7FnzMYmZzQlmk7iqf7GYTMLWC-ZIw-j7xAJkjsQhMD_Ftbho0mYG8MaY9jqVGMPkicNwV4iQMgjGF0ls0HaOl5mlTGxx40PqbD2oBtxG7kBjY90_HBZm2TRI6llU1y5vjW5_MFjI_QF-Sn2JRCe-m4HOXFmddHONkZqAjA1UNYX8V-H3-HsibwbH59waRXNDad21__01VYU6zucu9KfxAnRuTwbQL9bjeLKR1qL3XWEKGJaFWTr_4MBLZrB2ei0UUgkskX-JG9vG63YQORl-D2jiYurrAgExOuX56hf49OMK0Jr8uRt7whiJDEEs3HR7nqqZvBMWj2RlYmdzEBOg2Vge4Lr50FLtBSlp9-LrFr9_lHb4RidmJ8bMeZeeyCP6s",
+      "places/ChIJmROeGiaaP44RRS2ovct4ABc/photos/Ab43m-vOFodNniFE3iIZmF-t-dDSa_s243cZAMQQHVU1VbL6Y4Rp_thze-nnSmSE9xiQ8i_o3E396vKFr25UHrs_Ghq0xqz66xhHW1PdqZ-xJeE-OUBg5Vg1JPfnh7ORcnWvLCXtuRhcoeqxA0WDMaUYvz7Ox4_y6_8iiDO5Lw3AjeDYvwLljJ3KiYd2K8Q_cvCfPASSImXHixgxM5LlMEZOEmSK7G-Uj2LSr2CjhZNWer_K6Ij-VNtTducDKZ66cXXfeMWQpmF8BVYyiobKy5FXXopTvmJXI11XuKA_lo38Zp1rOgWXoq5r1iT8nH8hug4JElIM4FWla73nXpo7GzLfKF3bNTsYJvoB9KY0nMZzSJq0inomZEBBlI4jTuiTbANWfhmtocyT093FXK7qvV2p-4MKtNV4wACQ_q4u6rJFVQE",
+      "places/ChIJmROeGiaaP44RRS2ovct4ABc/photos/Ab43m-s5pcCylLMFYJAJFRyJlfjBYycGYxk8pFa0iB4-vTF_TRziV8n4oWYnWBieq1Nc5ETRkhQVMsl7YigZs7csT-AE33ivI6VRxT1a1UCf5fz_uq0s1LxN72vOa1qP6zBX7q4GY9iN0H8gZk3J2q0NVwzSMF-iJTh2nEmlwOMSvCfsMUCeukO8z8vc54KLuPFmdELAOw2rWlEjn3XyvCb6u7wfr53fBedoHWxUnum1dPDCHxhvlQKWL86Dv5sBSgAgLca79sWuGWe18L8_2yad3AMpPwGEbsgIf1o-0jI6LLQHSlwb_vvNtS-UARW6KNpgMaGp9-3YeH4NTLdViRyWeWR-lDOaDfXFZ1xSZJBxFNMY8PZbinaN0cfKpcNImaJBNbZXotf5pCXLoGqY39R1dBtdY7xUx_pAlUqj0VXyh8k",
+      "places/ChIJmROeGiaaP44RRS2ovct4ABc/photos/Ab43m-tIrb4sLV64YSdHzDdsQCz6ecQP2OqhqRyoGYMGO4lzYm5drDf1hSVZwsejlWZa3nTlPiSzh79ax3_9Q_vNCZPmWWur80jK_MqokyUbGiJaKdUTPQc0Nltdd0HFNvr1ekUUzfjOi2CRnkUAzQWBgTftun7hDVZhOvgz2dlFea3KNyOUYVofLTjeBEqgR-EuhVyLaRtHZ7Q9muHfvY10NKfu3tm_5AtKQqh_xqZUWVHqWKgy0vFrjqWeXeOj4rsGZOj8kbOVq6UlWLB6ay2X1mCF3i1MeeWv8jazoqDo1qUFK12AMN-eX8Ri9LdskloOKFUORv-YE_lysU9X5HdNXQ0go7iO7eiiYxN-ggHojVQKr7qGpzMEuCNY_dTaCmKj9TAvI-McmbvSJipcnGNEozklG8O2c9gi5BS05Rsz4SsacO8h",
+      "places/ChIJmROeGiaaP44RRS2ovct4ABc/photos/Ab43m-soVgLHCmxqGqyqGKJOOVyt5k5OCe3txaeuB_71VzU0TS7b-9ZCw7SC6bBSzvHaOT_XSLO7S4pylMzgBYhoZjoVQxyv74DYWcJI18hDZcXIJ02gtSUvSkvPCZQKx3E1f0SH4BOfPkJPJfKYgogvIjQKt9aBJl68PJr2J7UQ1ExuqdCpXmbVgd9iQ_E_19MH9rOaVtPHnRMEs8nKyWAStPE2M6ZKRP2FLmloSKNbKGOLNCpeaH8pvmNXq6qCl1qdU7SW8AFqrnAKi8-qexw6LbK9cls_HgBm78blppxawqQLKwDxHU56U6n4s7tjwxC6zvXEIV3dewvA1CuMXZP4R10RVCLwxWSrXdalGOfnlsDHcDZ_49vI-hJcSBVz2sX-mpwTb9Ol0yYt37FinpQ5uOzPcg8MOYU0evonjjoCg0XNYlM"
+    ],
+    "photo_urls": [
+      "https://www.starksmartgym.com.co/wp-content/uploads/2020/08/stark-43-1_0.jpg",
+      "https://www.starksmartgym.com.co/wp-content/uploads/2020/08/STK43_web3.jpg",
+      "https://www.starksmartgym.com.co/wp-content/uploads/2020/08/stark-43-3_0.jpg"
+    ],
+    "noindex": true,
+    "opening_hours": {
+      "lunes": "5:00–22:00",
+      "martes": "5:00–22:00",
+      "miércoles": "5:00–22:00",
+      "jueves": "5:00–22:00",
+      "viernes": "5:00–21:00",
+      "sábado": "7:00–17:00",
+      "domingo": "8:00–17:00"
+    },
+    "featured": false,
+    "created_at": "2026-05-17 06:22:57.848749+00:00",
+    "updated_at": "2026-05-17 09:58:17.520122+00:00"
+  }
+]
