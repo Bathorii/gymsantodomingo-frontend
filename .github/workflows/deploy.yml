@@ -1,4 +1,4 @@
-name: Deploy GymBogotá to Cloudflare Pages
+name: Deploy GymSantoDomingo to Cloudflare Pages
 
 on:
   push:
@@ -20,25 +20,25 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build GymBogotá
+      - name: Build GymSantoDomingo
         env:
           NEXT_PUBLIC_API_URL: ${{ secrets.NEXT_PUBLIC_API_URL }}
-          NEXT_PUBLIC_CITY_SLUG: bogota
-          NEXT_PUBLIC_CITY_NAME: Bogotá
-          NEXT_PUBLIC_COUNTRY: CO
-          NEXT_PUBLIC_LANG: es-CO
-          NEXT_PUBLIC_DOMAIN: gymbogota.co
-          NEXT_PUBLIC_SITE_NAME: GymBogota.co
+          NEXT_PUBLIC_CITY_SLUG: santodomingo
+          NEXT_PUBLIC_CITY_NAME: Santo Domingo
+          NEXT_PUBLIC_COUNTRY: DO
+          NEXT_PUBLIC_LANG: es-DO
+          NEXT_PUBLIC_DOMAIN: gymsantodomingo.com
+          NEXT_PUBLIC_SITE_NAME: GymSantoDomingo.com
         run: npm run build
 
-      - name: Deploy GymBogotá
+      - name: Deploy GymSantoDomingo
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy out --project-name gymbook-frontend
+          command: pages deploy out --project-name gymsantodomingo
 
       - name: IndexNow – Ping Bing
         run: |
-          curl -s "https://www.bing.com/indexnow?url=https://gymbogota.co/sitemap.xml&key=ff2a54de5f23415b816e281ee32d34e2" \
+          curl -s "https://www.bing.com/indexnow?url=https://gymsantodomingo.com/sitemap.xml&key=1f24f5028307a632cc4e7e4664c73bc6" \
             -o /dev/null -w "IndexNow status: %{http_code}\n"
