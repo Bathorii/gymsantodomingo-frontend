@@ -1,9 +1,9 @@
 /**
- * Centralized API client for gymbook-frontend
+ * Centralized API client for gymsantodomingo-frontend
  * Uses NEXT_PUBLIC_API_URL environment variable
  *
  * Local dev: http://localhost:8000
- * Railway deploy: https://gymbook-api.up.railway.app
+ * Railway deploy: https://gymsantodomingo-api.up.railway.app
  */
 
 const API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:8000'
