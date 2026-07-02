@@ -21,7 +21,7 @@ function getDeployedBarrioSlugs(): Set<string> {
 }
 
 // ── PORTAL-SPECIFIC ────────────────────────────────────────────────────────────
-const AUTOR_NOMBRE = 'Sebastián'
+const AUTOR_NOMBRE = 'Mariel'
 const BARRIOS_LABEL = 'Barrios cercanos'
 // ──────────────────────────────────────────────────────────────────────────────
 
