@@ -6,15 +6,15 @@ export const homeContent = {
     subtitle: 'Gimnasios, estudios, entrenadores y bienestar en todos los sectores de la ciudad',
   },
   stats: {
-    gyms: 'TBD',
-    barrios: 'TBD',
-    localidades: 'TBD',
+    gyms: '400+',
+    barrios: '30+',
+    localidades: '18',
     categories: '5',
   },
   faq: [
     {
       q: '¿Cuánto cuesta un gimnasio en Santo Domingo?',
-      a: 'Los precios varían según el sector y el tipo de gimnasio. Una membresía mensual en Santo Domingo cuesta en promedio entre RD$1.500 y RD$6.000 DOP. Los gimnasios boutique y clubes deportivos premium pueden superar los RD$10.000 DOP al mes.',
+      a: 'Los precios varían según el sector y el tipo de gimnasio. Una membresía mensual en Santo Domingo cuesta en promedio entre RD$1,500 y RD$6,000 DOP. Los gimnasios boutique y clubes deportivos premium pueden superar los RD$10,000 DOP al mes.',
     },
     {
       q: '¿Cuáles son los mejores sectores para encontrar gimnasios en Santo Domingo?',
@@ -38,7 +38,7 @@ export const homeContent = {
 export const categoryContent: Record<string, { h1: string; intro: string; faq: Array<{ q: string; a: string }> }> = {
   gimnasios: {
     h1: 'Gimnasios en Santo Domingo',
-    intro: `Santo Domingo tiene una escena fitness en crecimiento. La ciudad está a solo 14 metros sobre el nivel del mar, lo que significa que el rendimiento cardiovascular no se ve afectado por la altitud — aquí el reto es el calor y la humedad, no el oxígeno. Eso cambia cómo tienes que entrenar y recuperarte.
+    intro: `Santo Domingo tiene una escena fitness en crecimiento, con más de 400 gimnasios repartidos por los sectores de la ciudad. Aquí el reto de entrenar es el clima tropical: el calor y la humedad del Caribe exigen más al cuerpo que en ciudades templadas, y eso cambia cómo tienes que entrenar, hidratarte y recuperarte.
 
 Los sectores con más oferta de calidad son Piantini, Naco, Bella Vista y Serralles — zonas con instalaciones modernas, buen equipamiento y variedad de horarios. Si buscas precios más accesibles, Los Alcarrizos, Villa Mella y Los Minas tienen opciones sólidas que no siempre salen en las listas principales.
 
@@ -46,7 +46,7 @@ El clima dominicano hace que la hidratación sea crítica. Entrenar en Santo Dom
 
 En esta guía encuentras los gimnasios organizados por sector, con información sobre precios y servicios. No te vendemos ningún gimnasio — te damos la información para que decidas tú.`,
     faq: [
-      { q: '¿Cuántos gimnasios hay en Santo Domingo?', a: 'Santo Domingo cuenta con una amplia red de gimnasios distribuidos en sus distintos sectores. Las zonas con mayor concentración son Piantini, Naco y Bella Vista.' },
+      { q: '¿Cuántos gimnasios hay en Santo Domingo?', a: 'Santo Domingo cuenta con más de 400 gimnasios distribuidos en sus distintos sectores. Las zonas con mayor concentración son Piantini, Naco y Bella Vista.' },
       { q: '¿Cuánto cuesta el day pass en un gimnasio en Santo Domingo?', a: 'El pase de un día en Santo Domingo suele costar entre RD$300 y RD$800 DOP según el tipo de establecimiento.' },
       { q: '¿Hay gimnasios con piscina en Santo Domingo?', a: 'Sí, varios gimnasios y clubes deportivos en los sectores premium de Santo Domingo cuentan con piscina. Usa el filtro correspondiente en nuestra búsqueda.' },
       { q: '¿Qué gimnasios ofrecen clases grupales en Santo Domingo?', a: 'La mayoría de los gimnasios medianos y grandes incluyen clases grupales: spinning, zumba, yoga, pilates y funcional.' },
@@ -61,10 +61,10 @@ Un estudio especializado te da algo que el gimnasio masivo no puede: atención p
 
 El yoga y el pilates tienen mucha demanda en Santo Domingo, impulsados por una comunidad wellness en expansión. Para los que entrenan con hierro, añadir trabajo de movilidad y core mejora notablemente la calidad del movimiento.
 
-Los precios de una clase suelta en un estudio boutique de Santo Domingo oscilan entre RD$500 y RD$1.500 DOP. Los paquetes mensuales de 8 a 12 clases suelen ofrecer mejor relación precio-valor. Antes de comprar, pide una clase de prueba — la mayoría la ofrecen, a veces gratis, a veces a precio especial. La relación con el instructor y el ambiente del grupo importan tanto como el equipamiento.`,
+Los precios de una clase suelta en un estudio boutique de Santo Domingo oscilan entre RD$500 y RD$1,500 DOP. Los paquetes mensuales de 8 a 12 clases suelen ofrecer mejor relación precio-valor. Antes de comprar, pide una clase de prueba — la mayoría la ofrecen, a veces gratis, a veces a precio especial. La relación con el instructor y el ambiente del grupo importan tanto como el equipamiento.`,
     faq: [
       { q: '¿Qué tipos de estudios fitness existen en Santo Domingo?', a: 'En Santo Domingo encontrarás estudios de yoga, pilates, CrossFit, boxeo, spinning, funcional y artes marciales. Piantini y Naco concentran la mayor variedad.' },
-      { q: '¿Cuánto cuesta una clase de yoga en Santo Domingo?', a: 'Una clase de yoga en Santo Domingo cuesta entre RD$500 y RD$1.200 DOP la sesión individual. Los paquetes de 8-10 clases resultan más económicos.' },
+      { q: '¿Cuánto cuesta una clase de yoga en Santo Domingo?', a: 'Una clase de yoga en Santo Domingo cuesta entre RD$500 y RD$1,200 DOP la sesión individual. Los paquetes de 8-10 clases resultan más económicos.' },
       { q: '¿Hay estudios de pilates con máquinas en Santo Domingo?', a: 'Sí, varios estudios en Piantini y Bella Vista ofrecen pilates con Reformer. Las clases son más personalizadas y los precios algo más altos.' },
       { q: '¿Puedo probar una clase antes de comprar un paquete?', a: 'La mayoría de estudios boutique en Santo Domingo ofrecen una clase de prueba a precio especial. Consulta directamente desde su perfil en GymSantoDomingo.com.' },
       { q: '¿Cuáles son los mejores estudios de CrossFit en Santo Domingo?', a: 'Piantini, Naco y sectores del este concentran los mejores boxes de CrossFit. Usa el filtro "CrossFit" en nuestra plataforma para encontrar el más cercano.' },
@@ -76,11 +76,11 @@ Los precios de una clase suelta en un estudio boutique de Santo Domingo oscilan 
 
 Las credenciales importan. Pregunta directamente: ¿tienes certificación NSCA, ACE o ISSA? Un entrenador serio responde esa pregunta con confianza. El valor real de un buen entrenador no es darte la rutina — eso lo encuentras gratis en YouTube. El valor está en corregirte el movimiento cuando la técnica falla con la fatiga, empujarte cuando tú solo te habrías rendido, y sacarte del estancamiento cuando llevas semanas sin progresar.
 
-En cuanto a tarifas, una sesión en Santo Domingo cuesta en promedio entre RD$1.000 y RD$3.500 DOP por hora, según experiencia, certificaciones y modalidad. Las sesiones semiprivadas (2–3 personas) reducen el costo por persona sin perder demasiada atención personalizada. Muchos entrenadores trabajan en parques — el Mirador Norte y el Mirador Sur son puntos habituales para sesiones al aire libre, especialmente temprano en la mañana antes de que el calor apriete.
+En cuanto a tarifas, una sesión en Santo Domingo cuesta en promedio entre RD$1,000 y RD$3,500 DOP por hora, según experiencia, certificaciones y modalidad. Las sesiones semiprivadas (2–3 personas) reducen el costo por persona sin perder demasiada atención personalizada. Muchos entrenadores trabajan en parques — el Mirador Norte y el Mirador Sur son puntos habituales para sesiones al aire libre, especialmente temprano en la mañana antes de que el calor apriete.
 
 Un buen entrenador en Santo Domingo también entiende el clima. La hidratación, los tiempos de recuperación y la intensidad se manejan diferente cuando se trabaja con 32°C y 80% de humedad. Si el tuyo no habla de eso, algo falta.`,
     faq: [
-      { q: '¿Cuánto cobra un entrenador personal en Santo Domingo?', a: 'El precio de una sesión varía entre RD$1.000 y RD$3.500 DOP por hora, dependiendo de la experiencia, certificaciones y modalidad (domicilio, parque o gimnasio).' },
+      { q: '¿Cuánto cobra un entrenador personal en Santo Domingo?', a: 'El precio de una sesión varía entre RD$1,000 y RD$3,500 DOP por hora, dependiendo de la experiencia, certificaciones y modalidad (domicilio, parque o gimnasio).' },
       { q: '¿Los entrenadores van a domicilio en Santo Domingo?', a: 'Sí, muchos entrenadores personales en Santo Domingo ofrecen servicio a domicilio, especialmente en urbanizaciones de Piantini, Naco y Bella Vista.' },
       { q: '¿Cómo encuentro un entrenador especializado en pérdida de peso?', a: 'En GymSantoDomingo.com puedes filtrar entrenadores por especialización.' },
       { q: '¿Ofrecen entrenadores personales sesiones online en Santo Domingo?', a: 'Sí, muchos entrenadores ofrecen sesiones online, una opción práctica para personas con horarios exigentes.' },
@@ -115,7 +115,7 @@ La nutrición deportiva en Santo Domingo también requiere un enfoque específic
 La oferta se concentra en Piantini, Naco y Bella Vista, pero hay clínicas de fisioterapia y consultorios de nutrición deportiva distribuidos por otros sectores de la ciudad.`,
     faq: [
       { q: '¿Qué servicios de bienestar se pueden encontrar en Santo Domingo?', a: 'Masajes terapéuticos, spas, fisioterapia, nutrición deportiva, psicología del deporte y meditación. La oferta se concentra en Piantini, Naco y Bella Vista.' },
-      { q: '¿Cuánto cuesta un masaje en Santo Domingo?', a: 'Un masaje relajante o terapéutico en Santo Domingo cuesta entre RD$1.200 y RD$3.500 DOP por sesión de 60 minutos.' },
+      { q: '¿Cuánto cuesta un masaje en Santo Domingo?', a: 'Un masaje relajante o terapéutico en Santo Domingo cuesta entre RD$1,200 y RD$3,500 DOP por sesión de 60 minutos.' },
       { q: '¿Hay fisioterapeutas deportivos en Santo Domingo?', a: 'Sí. Santo Domingo tiene fisioterapeutas especializados en deporte y rehabilitación, muchos asociados a gimnasios y clubes deportivos.' },
       { q: '¿Cómo encuentro un nutricionista deportivo en Santo Domingo?', a: 'En GymSantoDomingo.com puedes filtrar profesionales de bienestar por especialización.' },
       { q: '¿Qué es la recuperación activa y dónde se practica en Santo Domingo?', a: 'La recuperación activa incluye técnicas como crioterapia, baños de contraste y movilidad guiada. Algunos centros premium la ofrecen como servicio complementario.' },

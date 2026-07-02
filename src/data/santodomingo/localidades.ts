@@ -1,2 +1,21 @@
 // src/data/santodomingo/localidades.ts
-export const localidades: { name: string; slug: string; gymCount: number }[] = []
+export const localidades: { name: string; slug: string; gymCount: number }[] = [
+  { name: 'Piantini', slug: 'piantini', gymCount: 65 },
+  { name: 'Naco', slug: 'naco', gymCount: 55 },
+  { name: 'Bella Vista', slug: 'bella-vista', gymCount: 48 },
+  { name: 'Evaristo Morales', slug: 'evaristo-morales', gymCount: 35 },
+  { name: 'La Esperilla', slug: 'la-esperilla', gymCount: 30 },
+  { name: 'Serrallés', slug: 'serralles', gymCount: 28 },
+  { name: 'Gazcue', slug: 'gazcue', gymCount: 25 },
+  { name: 'Los Prados', slug: 'los-prados', gymCount: 25 },
+  { name: 'Arroyo Hondo', slug: 'arroyo-hondo', gymCount: 22 },
+  { name: 'Mirador Sur', slug: 'mirador-sur', gymCount: 20 },
+  { name: 'Los Cacicazgos', slug: 'los-cacicazgos', gymCount: 18 },
+  { name: 'Paraíso', slug: 'paraiso', gymCount: 18 },
+  { name: 'Ensanche Julieta', slug: 'ensanche-julieta', gymCount: 15 },
+  { name: 'Zona Universitaria', slug: 'zona-universitaria', gymCount: 15 },
+  { name: 'Zona Colonial', slug: 'zona-colonial', gymCount: 12 },
+  { name: 'Villa Mella', slug: 'villa-mella', gymCount: 20 },
+  { name: 'Los Alcarrizos', slug: 'los-alcarrizos', gymCount: 18 },
+  { name: 'Santo Domingo Este', slug: 'santo-domingo-este', gymCount: 30 },
+]
